@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "xtremepush-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xtremepush/Xtremepush-iOS-SDK",
+      "state" : {
+        "revision" : "c91d75ce404d5f3fe58fe9170a28ea05f4fc5546",
+        "version" : "5.5.1"
+      }
+    }
+  ],
+  "version" : 2
+}
